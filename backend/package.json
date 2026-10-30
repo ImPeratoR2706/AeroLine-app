@@ -1,0 +1,12 @@
+{
+  "name": "aeroline-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "АэроЛайн — REST API бэкенд (Node.js + PostgreSQL). Написан на встроенных модулях Node.js (http, crypto, child_process) — не требует npm install, так как единственный системный инструмент для работы с PostgreSQL — это клиент psql.",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {}
+}

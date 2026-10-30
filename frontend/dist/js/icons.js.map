@@ -1,0 +1,1 @@
+{"version":3,"file":"icons.js","sourceRoot":"","sources":["../../src/icons.ts"],"names":[],"mappings":"AAAA,+DAA+D;AAC/D,qCAAqC;AACrC,+DAA+D;AAE/D,MAAM,CAAC,MAAM,OAAO,GAClB,gHAAgH,CAAC;AAEnH,MAAM,UAAU,SAAS,CAAC,GAAY;IACpC,OAAO,yBAAyB,GAAG,CAAC,CAAC,CAAC,GAAG,GAAG,GAAG,CAAC,CAAC,CAAC,EAAE,qDAAqD,OAAO,WAAW,CAAC;AAC9H,CAAC"}
